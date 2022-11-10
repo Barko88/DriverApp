@@ -6,7 +6,6 @@ const questions = [
   {
     text: "1. Vilket alternativ anger rätt rangordning på trafik anvisningar?",
     type: "mc",
-    image: "P2Q1.png",
     answers: [
       {
         text: "A Polismans tecken, trafikregler, trafiksignal, vägmärken.",
