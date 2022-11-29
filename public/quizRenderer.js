@@ -91,7 +91,7 @@ function loadQuestion(questionNum) {
 
     //End types
 
-    correctCount.innerHTML = `Korrekt: ${correct}`;
+    correctCount.innerHTML = `Korrekt: ${correct}/${questionNum}`;
   }
 }
 
